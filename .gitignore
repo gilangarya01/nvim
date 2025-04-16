@@ -1,0 +1,22 @@
+# Certificates and keys
+**/*.key
+**/*.pem
+**/*.crt
+**/*.env
+
+# Cache, logs, and swap files
+**/.cache/
+**/*.log
+**/*.swp
+
+# IDE configurations
+**/.vscode/
+**/.idea/
+
+# Backup files
+**/*.bak
+**/*~
+
+# Lock file for Lazy.nvim
+**/lazy-lock.json
+
